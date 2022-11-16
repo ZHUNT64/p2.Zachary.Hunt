@@ -12,4 +12,4 @@ As far as implementation goes, things were almost the exact same as the sketch. 
 
 And as for advanced features, when the mirror is powered on, there are lights around the perimeter of the backside of the mirror. This lets the mirror act as an up close light source, almost like ring lights in movies or other content.
 
-![alt text](https://github.com/ZHUNT64/p2.Zachary.Hunt/blob/main/screenshot.JPEG?raw=true)
+![alt text](https://github.com/ZHUNT64/p2.Zachary.Hunt/blob/main/screenshot.JPG?raw=true)
