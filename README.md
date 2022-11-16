@@ -14,5 +14,5 @@ And as for advanced features, when the mirror is powered on, there are lights ar
 
 ![alt text](https://github.com/ZHUNT64/p2.Zachary.Hunt/blob/main/screenshot.jpg?raw=true)
 
-Below is the link to the report presentation
+link to the report presentation
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/57zRLUnmI_k/0.jpg)](https://www.youtube.com/watch?v=57zRLUnmI_k)
